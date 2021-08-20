@@ -21,3 +21,4 @@ from regease import emailVd, usernameVd, passwordVd
 
 ```
 
+For more information visit:  [Regease Pypi](https://pypi.org/project/regease/)
