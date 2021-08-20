@@ -14,7 +14,7 @@ import regease
 
 ```
 
-# OR
+## OR
 
 ```python
 from regease import emailVd, usernameVd, passwordVd
